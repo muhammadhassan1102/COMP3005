@@ -1,5 +1,5 @@
 # COMP3005
-Assignment 1 
+Assignment 3 Question 1
 
 Step 1: Make sure pscopg2 is installed
 
