@@ -15,4 +15,5 @@ Step 4: Populate the table with the initial data.
 
 Step 5: Uncomment the steps on the bottom of the COMP3005A3Q1.py file and run the functions.
 
+https://youtu.be/6A7RkLnN6JI 
 
